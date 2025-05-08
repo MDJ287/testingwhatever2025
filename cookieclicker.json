@@ -2,38 +2,38 @@
   {
     "name": "crafting table",
     "effectOverride": "clicks",
-    "cookies": "1",
-    "cost": "64",
+    "cookies": 1,
+    "cost": 64,
     "description": "place more crafting tables to craft more cookies at once!"
   },
   {
     "name": "wheat field",
-    "cookies": "1",
-    "cost": "64",
+    "cookies": 1,
+    "cost": 64,
     "description": "growing wheat while you wait"
   },
   {
     "name": "cocoa bean farm",
-    "cookies": "8",
-    "cost": "192",
+    "cookies": 8,
+    "cost": 192,
     "description": "more chocolate makes customers more hungry"
   },
   {
     "name": "hopper",
-    "cookies": "64",
-    "cost": "640",
+    "cookies": 64,
+    "cost": 640,
     "description": "automating farming to improve rates"
   },
   {
     "name": "creeper",
-    "cookies": "192",
-    "cost": "960",
+    "cookies": 192,
+    "cost": 960,
     "description": "explodng farmland to collect resources faster"
   },
   {
     "name": "village",
-    "cookies": "640",
-    "cost": "3456",
+    "cookies": 640,
+    "cost": 3456,
     "description": "it takes a village to craft the most cookies"
   }
 ]
